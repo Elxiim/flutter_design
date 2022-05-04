@@ -1,6 +1,5 @@
-# f_share
-
-A new Flutter project.
+# Flutter Design
+This is just a design with flutter
 
 ## Getting Started
 
